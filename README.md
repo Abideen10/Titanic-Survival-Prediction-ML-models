@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction-ML-models
+# Final Project : Predicting Titanic Survival with ML Models
 
 - K-Nearest Neighbors (KNN)
 - Random Forest
